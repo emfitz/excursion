@@ -1,0 +1,33 @@
+html{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+  }
+h1 {
+  color: White;
+  font-weight: normal;
+  font-size: 50px;
+  }
+  h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: White;
+  }
+  p{
+    font-size: 21px;
+    color: Gray;
+  }
+a{
+  font-size: 16px;
+  color: Aquamarine;
+  }
+video{
+  display: block;
+  margin: 0 auto;
+  }
+
+  img{
+    align-items: center;
+    margin-top:20px; /*to have the space above the image*/
+    margin-bottom:20px; /*to have the space under the image*/
+    }
